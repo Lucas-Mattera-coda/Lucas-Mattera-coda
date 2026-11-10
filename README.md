@@ -1,4 +1,4 @@
-<div data-importer="image" align="center">
+[<div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -73,4 +73,4 @@
   <img src="https://streak-stats.demolab.com?user=Lucas-Mattera-coda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+###](https://github.com/Lucas-Mattera-coda)
